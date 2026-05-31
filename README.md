@@ -1,7 +1,7 @@
 # 🐼 Farukh Kharov
 **`Cloud, DevOps & Backend Enthusiast`**
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/wayofell">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF8C00&random=false&width=435&lines=%F0%9F%9A%80+Build.;%E2%98%81%EF%B8%8F+Deploy.;%E2%9A%99%EF%B8%8F+Automate." alt="Typing SVG" />
 </a>
 
