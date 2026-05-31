@@ -19,7 +19,7 @@
 
 ## About me
 
-I am a Computer Science student interested in backend engineering, cloud infrastructure, and DevOps. I enjoy learning how reliable software systems are designed, deployed, and operated in real-world environments.
+Aspiring backend engineer with a strong interest in cloud infrastructure and DevOps. Focused on learning and applying best practices for building, deploying, and maintaining reliable software systems.
 
 ## Languages and tools
 
